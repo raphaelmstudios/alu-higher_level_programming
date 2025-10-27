@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-def uppercase(str):
-    def uppercase(str1):
+def uppercase(str1):
     for char in str1:
         if 123 > ord(char) > 96:
             char = chr(ord(char) - 32)
